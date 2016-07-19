@@ -1,4 +1,4 @@
-FROM scratch
+FROM pandut:latest
 MAINTAINER https://github.com/pandut/centos-docker.git
 ADD centos-7-docker.tar.xz /
 
